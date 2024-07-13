@@ -1,6 +1,6 @@
 
 
-<p dir="auto"><strong><code>Digital Craftsman (Developer/Filmmaker/Creator)</code></strong></p>
+<p dir="auto"><strong><code>Senior Full Stack Web Developer (WordPress/WIX/Shopify) + SEO </code></strong></p>
 <p dir="auto">I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning.</p>
 
 <h1 dir="auto"></h1>
@@ -25,7 +25,12 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667"><img align="left" width="30px" src="https://camo.githubusercontent.com/0d5534dd6a655164d3127c270557a5e39450dec8c22f71a9830359b6bd8e749b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;"></a></p>
 
+
+<p dir="auto"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" /></p>
+
+
 <p dir="auto"> <img align="left" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" /> </p>
+
 
 
 
